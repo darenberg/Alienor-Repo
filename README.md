@@ -12,6 +12,9 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
+# How much I use it...
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green">
+
 <h1 align="center">Stuff I'm doing at the moment</h1>
 <p align="center">
 👀 Furthering my knowledge in....
