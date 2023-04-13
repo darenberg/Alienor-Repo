@@ -13,26 +13,28 @@
 </p>
 
 # How much I use it...
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darenberg&theme=flag-india">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=darenberg&theme=flag-india">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darenberg&theme=flag-india">
+  <img src="https://github-readme-stats.vercel.app/api?username=darenberg&theme=flag-india">
+</div>
 
 <h1 align="center">Stuff I'm doing at the moment</h1>
 <p align="center">
-👀 Furthering my knowledge in....
-<br><br>
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  👀 Furthering my knowledge in....
+  <br><br>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </p>
 <p align="center">
-🧗 Recent projects 🏗
+  🧗 Recent projects 🏗
 
->- [👩‍🏫 Fiverr clone](https://github.com/darenberg/consultify) but with advice from experts!!!<br>
->- [🛣 Ruby](https://github.com/darenberg/develo-manager) A full building development project management support and visualisation app <br> 
+  >- [👩‍🏫 Fiverr clone](https://github.com/darenberg/consultify) but with advice from experts!!!<br>
+  >- [🛣 Ruby](https://github.com/darenberg/develo-manager) A full building development project management support and visualisation app <br> 
 </p>
 
 
 <h3 align="center">Where to reach me....</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/alienor-d-arenberg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:alienordarenberg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alienor-d-arenberg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:alienordarenberg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
