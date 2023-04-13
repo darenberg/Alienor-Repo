@@ -13,8 +13,8 @@
 </p>
 
 # How much I use it...
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darenberg&theme=blue-green">
-<img src="https://github-readme-stats.vercel.app/api?username=darenberg&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darenberg&theme=flag-india">
+<img src="https://github-readme-stats.vercel.app/api?username=darenberg&theme=flag-india">
 
 <h1 align="center">Stuff I'm doing at the moment</h1>
 <p align="center">
