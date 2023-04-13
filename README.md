@@ -17,8 +17,8 @@
 <p align="center">
 👀 Furthering my knowledge in....
 <br><br>
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/Data Structures-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black">
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </p>
 <p align="center">
 🌱 Recent projects 🌱
