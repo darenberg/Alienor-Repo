@@ -20,10 +20,10 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </p>
 <p align="center">
-🌱 Recent projects 🌱
+🧗 Recent projects 🏗
 
->- [🏠 Fiverr clone](https://github.com/daniel-enqz/studio) but with advice from experts!!!<br>
->- [💃 Rails](https://github.com/stars/daniel-enqz/lists/rails) | Multiple small rails applications to practice principles and best practices.<br> 
+>- [👩‍🏫 Fiverr clone](https://github.com/daniel-enqz/studio) but with advice from experts!!!<br>
+>- [🛣 Rails](https://github.com/stars/daniel-enqz/lists/rails) | Multiple small rails applications to practice principles and best practices.<br> 
 </p>
 
 
