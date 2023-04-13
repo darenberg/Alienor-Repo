@@ -26,7 +26,7 @@
 🧗 Recent projects 🏗
 
 >- [👩‍🏫 Fiverr clone](https://github.com/darenberg/consultify) but with advice from experts!!!<br>
->- [🛣 Rails](https://github.com/darenberg/develomanager) | Multiple small rails applications to practice principles and best practices.<br> 
+>- [🛣 Rails](https://github.com/darenberg/develo-manager) | Multiple small rails applications to practice principles and best practices.<br> 
 </p>
 
 
